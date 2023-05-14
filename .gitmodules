@@ -1,0 +1,3 @@
+[submodule "submodule-01"]
+	path = submodule-01
+	url = https://RichNSD@github.com/RichNSD/submodule-01
